@@ -1,3 +1,2 @@
-# git_test
-My first GitHub repo!
-Hello Odin!
+# The Odin Project
+This repo contains all working files and examples used in The Odin Project.
